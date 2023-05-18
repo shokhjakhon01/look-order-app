@@ -1,0 +1,37 @@
+[
+	{
+		"foodName": "spinner",
+		"foodId": 1,
+		"foodImg": "./img/spinner.jpeg"
+	},
+	{
+		"foodName": "fanta",
+		"foodId": 2,
+		"foodImg": "./img/fanta.jpeg"
+	},
+	{
+		"foodName": "combo",
+		"foodId": 3,
+		"foodImg": "./img/combo.jpeg"
+	},
+	{
+		"foodName": "cola",
+		"foodId": 4,
+		"foodImg": "./img/cola.jpeg"
+	},
+	{
+		"foodName": "chicken wings",
+		"foodId": 5,
+		"foodImg": "./img/chicken_wings.jpeg"
+	},
+	{
+		"foodName": "chicken togora",
+		"foodId": 6,
+		"foodImg": "./img/chicken_togora.jpeg"
+	},
+	{
+		"foodName": "burger cheeze",
+		"foodId": 7,
+		"foodImg": "./img/chicken_cheese.jpeg"
+	}
+]

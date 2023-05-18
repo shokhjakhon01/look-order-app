@@ -1,0 +1,47 @@
+[
+    {
+        "userId": 1,
+        "foodId": 2,
+        "count": 3
+    },
+    {
+        "userId": 3,
+        "foodId": 6,
+        "count": 7
+    },
+    {
+        "userId": 5,
+        "foodId": 6,
+        "count": 4
+    },
+    {
+        "userId": 2,
+        "foodId": 4,
+        "count": 4
+    },
+    {
+        "userId": 5,
+        "foodId": 5,
+        "count": 4
+    },
+    {
+        "userId": 4,
+        "foodId": 1,
+        "count": 3
+    },
+    {
+        "userId": 3,
+        "foodId": 4,
+        "count": 3
+    },
+    {
+        "userId": 3,
+        "foodId": 5,
+        "count": 5
+    },
+    {
+        "userId": 6,
+        "foodId": 6,
+        "count": 4
+    }
+]
